@@ -1,4 +1,4 @@
-# **ĐỀ TÀI: BANK CUSTOMER CHURN PREDICTION**
+# **BANK CUSTOMER CHURN PREDICTION**
 ## Mô tả ngắn
 Xây dựng và so sánh hiệu quả của các mô hình học máy trong việc dự đoán khả năng rời bỏ (churn). Quá trình thực hiện bao gồm các bước chính: tiền xử lý dữ liệu, lựa chọn biến đầu vào có ý nghĩa thống kê, huấn luyện và đánh giá mô hình. Cụ thể, bốn thuật toán được áp dụng gồm Logistic Regression, K-Nearest Neighbors (KNN), Random Forest và XGBoost. Mục tiêu của đề tài là dự đoán khả năng rời bỏ của khách hàng trong lĩnh vực ngân hàng dựa trên dữ liệu lịch sử và đặc điểm hành vi của họ. Từ các kết quả phân tích, nhóm nghiên cứu kỳ vọng đề xuất các định hướng chiến lược giữ chân phù hợp cho từng nhóm khách hàng. 
 ## Cài đặt các lệnh cần thiết
